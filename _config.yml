@@ -1,5 +1,6 @@
 # GitHub Pages Configuration
 title: Sudoku Spark
 description: Privacy Policy and Terms of Service
-theme: minima
 markdown: kramdown
+
+# No theme - using custom minimal layout
