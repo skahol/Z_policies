@@ -1,39 +1,41 @@
 # Game Policies
 
-Privacy Policy and Terms of Service hosted via GitHub Pages.
+Privacy Policies and Terms of Service for all games, hosted via GitHub Pages.
 
 ## Structure
 
 ```
 Z_policies/
-├── _config.yml           # Jekyll configuration
-├── privacy-policy.md     # Privacy Policy
-└── terms-of-service.md   # Terms of Service
+├── _config.yml
+├── sudoku-spark/
+│   ├── privacy-policy.md
+│   └── terms-of-service.md
+├── [future-game]/
+│   ├── privacy-policy.md
+│   └── terms-of-service.md
+└── ...
 ```
 
-## URLs
+## GitHub Pages URLs
 
-**With GitHub Pages (default):**
-- `https://skahol.github.io/Z_policies/privacy-policy`
-- `https://skahol.github.io/Z_policies/terms-of-service`
+| Game | Document | GitHub URL |
+|------|----------|------------|
+| Sudoku Spark | Privacy Policy | `skahol.github.io/Z_policies/sudoku-spark/privacy-policy` |
+| Sudoku Spark | Terms of Service | `skahol.github.io/Z_policies/sudoku-spark/terms-of-service` |
 
-**With Custom Domain:**
-- `https://yourdomain.com/privacy-policy`
-- `https://yourdomain.com/terms-of-service`
+## TinyURL Aliases (For Google Play)
 
-## Setup Custom Domain
+| Game | Document | TinyURL |
+|------|----------|---------|
+| Sudoku Spark | Privacy Policy | `tinyurl.com/sudoku-spark-privacy` |
+| Sudoku Spark | Terms of Service | `tinyurl.com/sudoku-spark-terms` |
 
-1. Buy a domain (Namecheap, Cloudflare, Google Domains)
-2. Add DNS records:
-   ```
-   CNAME  www  →  skahol.github.io
-   A      @    →  185.199.108.153
-   A      @    →  185.199.109.153
-   A      @    →  185.199.110.153
-   A      @    →  185.199.111.153
-   ```
-3. In GitHub repo Settings → Pages → Enter custom domain
-4. Enable "Enforce HTTPS"
+## Adding New Games
+
+1. Create folder: `[game-name]/`
+2. Add `privacy-policy.md` and `terms-of-service.md`
+3. Create TinyURL aliases for the new game
+4. Use TinyURL in Google Play Console
 
 ## Contact
 
