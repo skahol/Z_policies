@@ -139,7 +139,7 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 ## 15. Entire Agreement
 
-These Terms, together with our [Privacy Policy](privacy-policy), constitute the entire agreement between you and Sudoku Spark regarding the App.
+These Terms, together with our [Privacy Policy](./privacy-policy), constitute the entire agreement between you and Sudoku Spark regarding the App.
 
 ## 16. Contact Information
 

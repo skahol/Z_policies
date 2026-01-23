@@ -1,19 +1,5 @@
 # GitHub Pages Configuration
-title: Game Policies
-description: Privacy Policies and Terms of Service for our games
+title: Sudoku Spark
+description: Privacy Policy and Terms of Service
 theme: minima
-
-# Build settings
 markdown: kramdown
-plugins:
-  - jekyll-seo-tag
-
-# Collections (for future expansion)
-collections_dir: .
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "default"

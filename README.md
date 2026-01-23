@@ -1,51 +1,39 @@
 # Game Policies
 
-Privacy Policies and Terms of Service for mobile games, hosted via GitHub Pages.
+Privacy Policy and Terms of Service hosted via GitHub Pages.
 
 ## Structure
 
 ```
 Z_policies/
 ├── _config.yml           # Jekyll configuration
-├── index.md              # Landing page
-├── sudoku-spark/         # Sudoku Spark game policies
-│   ├── index.md
-│   ├── privacy-policy.md
-│   └── terms-of-service.md
-└── [future-game]/        # Add more games as needed
+├── privacy-policy.md     # Privacy Policy
+└── terms-of-service.md   # Terms of Service
 ```
 
-## URLs (after GitHub Pages setup)
+## URLs
 
-**Default GitHub Pages URL:**
-- Privacy Policy: `https://skahol.github.io/Z_policies/sudoku-spark/privacy-policy`
-- Terms of Service: `https://skahol.github.io/Z_policies/sudoku-spark/terms-of-service`
+**With GitHub Pages (default):**
+- `https://skahol.github.io/Z_policies/privacy-policy`
+- `https://skahol.github.io/Z_policies/terms-of-service`
 
-**With Custom Domain (e.g., policies.yourdomain.com):**
-- Privacy Policy: `https://policies.yourdomain.com/sudoku-spark/privacy-policy`
-- Terms of Service: `https://policies.yourdomain.com/sudoku-spark/terms-of-service`
+**With Custom Domain:**
+- `https://yourdomain.com/privacy-policy`
+- `https://yourdomain.com/terms-of-service`
 
-## Setup GitHub Pages
+## Setup Custom Domain
 
-1. Go to repo **Settings** → **Pages**
-2. Source: **Deploy from a branch**
-3. Branch: **main** / **(root)**
-4. Click **Save**
-
-## Adding Custom Domain (Optional)
-
-1. In GitHub Pages settings, enter your custom domain
-2. Add DNS records with your domain provider:
-   - For subdomain (e.g., policies.example.com): Add CNAME record pointing to `skahol.github.io`
-   - For apex domain: Add A records pointing to GitHub's IPs
-3. Enable "Enforce HTTPS"
-
-## Adding New Games
-
-1. Create a new folder: `[game-name]/`
-2. Add `privacy-policy.md` and `terms-of-service.md`
-3. Update the root `index.md` with links
-4. Commit and push
+1. Buy a domain (Namecheap, Cloudflare, Google Domains)
+2. Add DNS records:
+   ```
+   CNAME  www  →  skahol.github.io
+   A      @    →  185.199.108.153
+   A      @    →  185.199.109.153
+   A      @    →  185.199.110.153
+   A      @    →  185.199.111.153
+   ```
+3. In GitHub repo Settings → Pages → Enter custom domain
+4. Enable "Enforce HTTPS"
 
 ## Contact
 
