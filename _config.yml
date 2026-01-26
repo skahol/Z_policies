@@ -1,6 +1,8 @@
 # GitHub Pages Configuration
-title: Sudoku Spark
-description: Privacy Policy and Terms of Service
+title: Khelnedo Games - Legal
+description: Privacy Policies and Terms of Service for Khelnedo Games
+url: "https://legal.khelnedogames.com"
+baseurl: ""
 markdown: kramdown
 
 # No theme - using custom minimal layout

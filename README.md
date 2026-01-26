@@ -16,19 +16,19 @@ Z_policies/
 └── ...
 ```
 
-## GitHub Pages URLs
+## Live URLs (Custom Domain)
+
+| Game | Document | URL |
+|------|----------|-----|
+| Sudoku Spark | Privacy Policy | `https://legal.khelnedogames.com/sudoku-spark/privacy-policy` |
+| Sudoku Spark | Terms of Service | `https://legal.khelnedogames.com/sudoku-spark/terms-of-service` |
+
+## Legacy GitHub Pages URLs
 
 | Game | Document | GitHub URL |
 |------|----------|------------|
 | Sudoku Spark | Privacy Policy | `skahol.github.io/Z_policies/sudoku-spark/privacy-policy` |
 | Sudoku Spark | Terms of Service | `skahol.github.io/Z_policies/sudoku-spark/terms-of-service` |
-
-## TinyURL Aliases (For Google Play)
-
-| Game | Document | TinyURL |
-|------|----------|---------|
-| Sudoku Spark | Privacy Policy | `tinyurl.com/sudoku-spark-privacy` |
-| Sudoku Spark | Terms of Service | `tinyurl.com/sudoku-spark-terms` |
 
 ## Adding New Games
 
