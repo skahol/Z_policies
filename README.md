@@ -9,6 +9,6 @@ Welcome to Khelnedo Games Legal Documentation.
 
 ---
 
-**Contact:** sudoku.spark@gmail.com
+**Contact:** khelnedogames@gmail.com
 
 © 2026 Khelnedo Games. All rights reserved.
