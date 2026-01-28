@@ -1,14 +1,32 @@
-# Khelnedo Games
+<p align="center">
+  <img src="khelnedo-logo.png" alt="Khelnedo Games Logo" width="150" height="150">
+</p>
 
-Welcome to Khelnedo Games Legal Documentation.
+<h1 align="center">Khelnedo Games™</h1>
 
-## Sudoku Spark
-
-- [Privacy Policy](./sudoku-spark/privacy-policy.html)
-- [Terms of Service](./sudoku-spark/terms-of-service.html)
+<p align="center">
+  <em>Premium Brain Training Games</em>
+</p>
 
 ---
 
-**Contact:** khelnedogames@gmail.com
+## 📱 Our Games
 
-© 2026 Khelnedo Games. All rights reserved.
+### Sudoku Spark™
+
+The ultimate brain training puzzle game with daily challenges, smart hints, and 30+ achievements.
+
+- [Privacy Policy](./sudoku-spark/privacy-policy)
+- [Terms of Service](./sudoku-spark/terms-of-service)
+
+---
+
+## 📧 Contact
+
+**Email:** [sudoku.spark@gmail.com](mailto:sudoku.spark@gmail.com)
+
+---
+
+<p align="center">
+  © 2026 Khelnedo Games™. All rights reserved.
+</p>
