@@ -4,13 +4,13 @@ title: Terms of Service - Sudoku Spark
 description: Terms of Service for Sudoku Spark mobile game
 ---
 
-# Terms of Service for Sudoku Spark
+# Terms of Service for Sudoku Spark™
 
 **Last Updated: January 2026**
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Sudoku Spark ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
+By downloading, installing, or using Sudoku Spark™ ("the App"), developed by Khelnedo Games™, you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
 
 ## 2. Description of Service
 
@@ -56,7 +56,7 @@ All content in the App, including but not limited to:
 - User interface design
 - Text and documentation
 
-...is protected by copyright and other intellectual property laws.
+...is the property of Khelnedo Games™ and is protected by copyright and other intellectual property laws.
 
 ### Your Rights
 You own your:
@@ -93,7 +93,7 @@ THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, 
 - Uninterrupted or error-free operation
 
 ### Limitation of Liability
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, KHELNEDO GAMES™ SHALL NOT BE LIABLE FOR:
 - Any indirect, incidental, special, or consequential damages
 - Loss of data, profits, or goodwill
 - Service interruptions
@@ -139,7 +139,7 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 ## 15. Entire Agreement
 
-These Terms, together with our [Privacy Policy](privacy-policy), constitute the entire agreement between you and Sudoku Spark regarding the App.
+These Terms, together with our [Privacy Policy](privacy-policy), constitute the entire agreement between you and Khelnedo Games™ regarding the App.
 
 ## 16. Contact Information
 
@@ -155,4 +155,4 @@ By using Sudoku Spark, you acknowledge that you have read, understood, and agree
 
 ---
 
-© 2026 Sudoku Spark. All rights reserved.
+© 2026 Khelnedo Games™. All rights reserved.

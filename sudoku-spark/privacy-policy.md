@@ -4,13 +4,13 @@ title: Privacy Policy - Sudoku Spark
 description: Privacy Policy for Sudoku Spark mobile game
 ---
 
-# Privacy Policy for Sudoku Spark
+# Privacy Policy for Sudoku Spark™
 
 **Last Updated: January 2026**
 
 ## Introduction
 
-Welcome to Sudoku Spark. We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Welcome to Sudoku Spark™, developed by Khelnedo Games™. We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
@@ -124,4 +124,4 @@ By using Sudoku Spark, you consent to our Privacy Policy and agree to its terms.
 
 ---
 
-© 2026 Sudoku Spark. All rights reserved.
+© 2026 Khelnedo Games™. All rights reserved.
