@@ -16,6 +16,8 @@
 
 The ultimate brain training puzzle game with daily challenges, smart hints, and 30+ achievements.
 
+- [Official Website](https://khelnedogames.com/sudoku-spark/)
+- [Download on Google Play](https://play.google.com/store/apps/details?id=com.worldclass.sudoku)
 - [Privacy Policy](./sudoku-spark/privacy-policy)
 - [Terms of Service](./sudoku-spark/terms-of-service)
 
@@ -23,7 +25,8 @@ The ultimate brain training puzzle game with daily challenges, smart hints, and 
 
 ## 📧 Contact
 
-**Email:** [sudoku.spark@gmail.com](mailto:sudoku.spark@gmail.com)
+**Website:** [khelnedogames.com](https://khelnedogames.com)
+**Email:** [khelnedogames@gmail.com](mailto:khelnedogames@gmail.com)
 
 ---
 
